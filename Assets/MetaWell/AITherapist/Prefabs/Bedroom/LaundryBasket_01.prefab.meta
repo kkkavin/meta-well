@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f272ff704fb79824b971092c2dfb5855
+timeCreated: 1514931755
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108308
+  packageName: 'Modern Archviz: Leafless'
+  packageVersion: 1.0
+  assetPath: Assets/Modern Archviz Leafless/Assets/Prefabs/Bedroom/LaundryBasket_01.prefab
+  uploadId: 222102

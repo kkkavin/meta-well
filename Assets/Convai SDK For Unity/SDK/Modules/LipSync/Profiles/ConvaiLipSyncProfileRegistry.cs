@@ -1,0 +1,34 @@
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace Convai.Modules.LipSync.Profiles
+{
+    /// <summary>
+    ///     Registry asset that groups profile assets and defines merge precedence for catalog loading.
+    /// </summary>
+    [CreateAssetMenu(fileName = "ConvaiLipSyncProfileRegistry", menuName = "Convai/Lip Sync/Profile Registry")]
+    public class ConvaiLipSyncProfileRegistry : ScriptableObject
+    {
+        private static readonly List<ConvaiLipSyncProfile> EmptyProfiles = new();
+
+        [SerializeField] private int _priority;
+        [SerializeField] private List<ConvaiLipSyncProfile> _profiles = new();
+
+        /// <summary>
+        ///     Merge priority used by the catalog. Lower values are applied first.
+        /// </summary>
+        public int Priority => _priority;
+
+        /// <summary>
+        ///     Ordered list of profile assets contributed by this registry.
+        /// </summary>
+        public IReadOnlyList<ConvaiLipSyncProfile> Profiles => _profiles ?? EmptyProfiles;
+
+        private void OnValidate()
+        {
+#if UNITY_EDITOR
+            LipSyncProfileCatalog.InvalidateCachesForEditor();
+#endif
+        }
+    }
+}

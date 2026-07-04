@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: da71817632c8c1d4fa5b49fc73acee4e
+timeCreated: 1514981361
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108308
+  packageName: 'Modern Archviz: Leafless'
+  packageVersion: 1.0
+  assetPath: Assets/Modern Archviz Leafless/Assets/Prefabs/Kitchen/WoodBlockSmall_01.prefab
+  uploadId: 222102

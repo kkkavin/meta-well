@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e1b2a7e2f8e90c6498eb5b1c229d697f
+timeCreated: 1514980706
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108308
+  packageName: 'Modern Archviz: Leafless'
+  packageVersion: 1.0
+  assetPath: Assets/Modern Archviz Leafless/Assets/Prefabs/Kitchen/Oven_01.prefab
+  uploadId: 222102

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: af6c8f00db368e5498c90995cf9488e7
+timeCreated: 1514931137
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108308
+  packageName: 'Modern Archviz: Leafless'
+  packageVersion: 1.0
+  assetPath: Assets/Modern Archviz Leafless/Assets/Materials/Fabric/FabricCreased_2k/FabricCreased_01.mat
+  uploadId: 222102

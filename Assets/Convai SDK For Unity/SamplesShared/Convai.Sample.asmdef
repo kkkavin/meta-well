@@ -1,0 +1,22 @@
+{
+    "name": "Convai.Sample",
+    "rootNamespace": "Convai.Sample",
+    "references": [
+        "Convai.Domain",
+        "Convai.Runtime",
+        "Convai.Runtime.UI",
+        "Convai.Modules.Emotion",
+        "Convai.Shared.Unity",
+        "Unity.TextMeshPro",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

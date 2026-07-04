@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: eaa1707c155e6594eaa53c6d7ca65833
+timeCreated: 1514979082
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108308
+  packageName: 'Modern Archviz: Leafless'
+  packageVersion: 1.0
+  assetPath: Assets/Modern Archviz Leafless/Assets/Prefabs/Hallway/StaircaseStaticSmall_01.prefab
+  uploadId: 222102

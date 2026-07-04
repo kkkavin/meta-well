@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 244e20dd7a51889469c5435d354dfe8c
+timeCreated: 1514930033
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108308
+  packageName: 'Modern Archviz: Leafless'
+  packageVersion: 1.0
+  assetPath: Assets/Modern Archviz Leafless/Assets/Prefabs/Bathroom/Ointment_01.prefab
+  uploadId: 222102

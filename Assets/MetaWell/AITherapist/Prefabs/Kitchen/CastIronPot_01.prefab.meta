@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7f8c8c5321548e74e8a171567c73e6ed
+timeCreated: 1514979989
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108308
+  packageName: 'Modern Archviz: Leafless'
+  packageVersion: 1.0
+  assetPath: Assets/Modern Archviz Leafless/Assets/Prefabs/Kitchen/CastIronPot_01.prefab
+  uploadId: 222102

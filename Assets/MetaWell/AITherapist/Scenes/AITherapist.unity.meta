@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 65bc12c382833dd4d9151d3b0a23370b
+timeCreated: 1514982354
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108308
+  packageName: 'Modern Archviz: Leafless'
+  packageVersion: 1.0
+  assetPath: Assets/Modern Archviz Leafless/Scenes/DemoBaked_Leafless_01.unity
+  uploadId: 222102

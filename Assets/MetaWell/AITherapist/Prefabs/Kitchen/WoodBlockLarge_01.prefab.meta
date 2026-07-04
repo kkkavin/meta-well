@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fd4e4a084b9d704439ee24166241f1aa
+timeCreated: 1514981331
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108308
+  packageName: 'Modern Archviz: Leafless'
+  packageVersion: 1.0
+  assetPath: Assets/Modern Archviz Leafless/Assets/Prefabs/Kitchen/WoodBlockLarge_01.prefab
+  uploadId: 222102

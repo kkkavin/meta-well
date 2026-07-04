@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d650307e08471044a9bb957287b091ad
+timeCreated: 1514977953
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108308
+  packageName: 'Modern Archviz: Leafless'
+  packageVersion: 1.0
+  assetPath: Assets/Modern Archviz Leafless/Assets/Prefabs/Hallway/PaintingExtraSmall_a_01.prefab
+  uploadId: 222102

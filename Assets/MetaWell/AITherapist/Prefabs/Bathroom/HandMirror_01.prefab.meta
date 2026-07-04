@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 14766e365e2e82346be618e0023d6bb9
+timeCreated: 1514929921
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108308
+  packageName: 'Modern Archviz: Leafless'
+  packageVersion: 1.0
+  assetPath: Assets/Modern Archviz Leafless/Assets/Prefabs/Bathroom/HandMirror_01.prefab
+  uploadId: 222102
