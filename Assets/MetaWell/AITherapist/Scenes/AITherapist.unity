@@ -5223,15 +5223,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1111236450833878535, guid: a26d90d3b2997484bae55f55bb9a4a2a, type: 3}
       propertyPath: m_LocalScale.x
-      value: 1
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 1111236450833878535, guid: a26d90d3b2997484bae55f55bb9a4a2a, type: 3}
       propertyPath: m_LocalScale.y
-      value: 1
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 1111236450833878535, guid: a26d90d3b2997484bae55f55bb9a4a2a, type: 3}
       propertyPath: m_LocalScale.z
-      value: 1
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 1111236450833878535, guid: a26d90d3b2997484bae55f55bb9a4a2a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5275,7 +5275,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1111236450833878535, guid: a26d90d3b2997484bae55f55bb9a4a2a, type: 3}
       propertyPath: m_ConstrainProportionsScale
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1860416407365869164, guid: a26d90d3b2997484bae55f55bb9a4a2a, type: 3}
       propertyPath: m_Name
@@ -19684,7 +19684,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 0efe8ef3efa83dc48bd52d8bf9ccafd4, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.15
+  m_Volume: 0.5
   m_Pitch: 1
   Loop: 1
   Mute: 0
