@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6b10e1988bd30964686466a7c6c1af08
+timeCreated: 1514980597
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108308
+  packageName: 'Modern Archviz: Leafless'
+  packageVersion: 1.0
+  assetPath: Assets/Modern Archviz Leafless/Assets/Prefabs/Kitchen/KitchenCupboards_01.prefab
+  uploadId: 222102

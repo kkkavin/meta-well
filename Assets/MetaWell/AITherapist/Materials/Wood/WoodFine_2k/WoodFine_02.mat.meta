@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: be2960dae6e3d644bacf9beec4e8bd19
+timeCreated: 1514930910
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108308
+  packageName: 'Modern Archviz: Leafless'
+  packageVersion: 1.0
+  assetPath: Assets/Modern Archviz Leafless/Assets/Materials/Wood/WoodFine_2k/WoodFine_02.mat
+  uploadId: 222102

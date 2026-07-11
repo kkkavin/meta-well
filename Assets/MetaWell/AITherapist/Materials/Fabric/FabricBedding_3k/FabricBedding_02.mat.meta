@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d947db3b20631a84aaab75ba07ed2347
+timeCreated: 1514931382
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108308
+  packageName: 'Modern Archviz: Leafless'
+  packageVersion: 1.0
+  assetPath: Assets/Modern Archviz Leafless/Assets/Materials/Fabric/FabricBedding_3k/FabricBedding_02.mat
+  uploadId: 222102

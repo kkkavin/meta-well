@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 033aa02bc26074b4ebe476e6842b150f
+timeCreated: 1514929234
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108308
+  packageName: 'Modern Archviz: Leafless'
+  packageVersion: 1.0
+  assetPath: Assets/Modern Archviz Leafless/Assets/Materials/Wood/WoodDarkCherry_2k/WoodDarkCherry_01.mat
+  uploadId: 222102

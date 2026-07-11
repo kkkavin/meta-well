@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 02f1da70c4e605b45a11638675eec6d1
+timeCreated: 1514930614
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108308
+  packageName: 'Modern Archviz: Leafless'
+  packageVersion: 1.0
+  assetPath: Assets/Modern Archviz Leafless/Assets/Materials/Fabric/ToiletPaper_512/ToiletPaper_01.mat
+  uploadId: 222102

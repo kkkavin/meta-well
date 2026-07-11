@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 79338f0a5ab38ec46922bb283bd0972d
+timeCreated: 1514929408
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108308
+  packageName: 'Modern Archviz: Leafless'
+  packageVersion: 1.0
+  assetPath: Assets/Modern Archviz Leafless/Assets/Materials/Fabric/FabricTowel_2k/FabricTowel_04.mat
+  uploadId: 222102

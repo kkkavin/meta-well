@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e82958639e4bab04fa0867765dc4db11
+timeCreated: 1514929592
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108308
+  packageName: 'Modern Archviz: Leafless'
+  packageVersion: 1.0
+  assetPath: Assets/Modern Archviz Leafless/Assets/Materials/Other/Porcelain_2k/Porcelain_01.mat
+  uploadId: 222102

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 046bb41b7f65ae34185fdc244a118cfd
+timeCreated: 1514929949
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108308
+  packageName: 'Modern Archviz: Leafless'
+  packageVersion: 1.0
+  assetPath: Assets/Modern Archviz Leafless/Assets/Prefabs/Bathroom/HandTowel_01.prefab
+  uploadId: 222102

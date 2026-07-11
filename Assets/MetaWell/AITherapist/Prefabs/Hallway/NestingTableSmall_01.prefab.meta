@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 877d9f2b24f30564f9c638f93a7f412c
+timeCreated: 1514977759
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108308
+  packageName: 'Modern Archviz: Leafless'
+  packageVersion: 1.0
+  assetPath: Assets/Modern Archviz Leafless/Assets/Prefabs/Hallway/NestingTableSmall_01.prefab
+  uploadId: 222102

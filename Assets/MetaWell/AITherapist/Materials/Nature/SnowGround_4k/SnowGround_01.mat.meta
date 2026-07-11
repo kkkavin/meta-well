@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2014b1ab2086f614095751ee43fb586f
+timeCreated: 1514933804
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108308
+  packageName: 'Modern Archviz: Leafless'
+  packageVersion: 1.0
+  assetPath: Assets/Modern Archviz Leafless/Assets/Materials/Nature/SnowGround_4k/SnowGround_01.mat
+  uploadId: 222102
